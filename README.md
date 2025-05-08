@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Marketing Insights for CodeX Energy Drink Launch
 ## PROJECT OVERVIEW
  The objective of this project is to analyze customer survey data collected
@@ -83,8 +82,4 @@ semi-urban areas.
 professionals.
 
 # REFERENCES:
-[https://drive.google.com/drive/folders/1pT1qTYuLbU6Z7CuoRGHtx3A3Kg8Ba6Nk?usp=sharing]
-=======
-# Codex-Energy-Drink-Analysis
-Data analysis project for Codex Energy Drink using Power BI,Excel
->>>>>>> 7508bad7c1d18bf6fb3e922b36ba6c10eb69766f
+https://drive.google.com/drive/folders/1pT1qTYuLbU6Z7CuoRGHtx3A3Kg8Ba6Nk?usp=sharing
